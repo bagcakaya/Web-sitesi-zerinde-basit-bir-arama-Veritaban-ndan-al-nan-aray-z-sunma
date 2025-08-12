@@ -1,0 +1,1 @@
+# Web-sitesi-zerinde-basit-bir-arama-Veritaban-ndan-al-nan-aray-z-sunma
